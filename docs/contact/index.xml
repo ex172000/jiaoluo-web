@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>联系方式 on 角落</title>
-    <link>https://jiaoluo.mycloudice.com/contact/</link>
+    <link>http://jiaoluo.mycloudice.com/contact/</link>
     <description>Recent content in 联系方式 on 角落</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://jiaoluo.mycloudice.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="http://jiaoluo.mycloudice.com/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
