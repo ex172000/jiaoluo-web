@@ -21,7 +21,7 @@ publishDir = "docs"
     weight = 4
 
 [[menu.main]]
-    name = "隐私条款"
+    name = "隐私政策"
     url = "/privacy/"
     weight = 5
 
