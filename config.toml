@@ -20,6 +20,16 @@ publishDir = "docs"
     url = "/contact/"
     weight = 4
 
+[[menu.main]]
+    name = "隐私条款"
+    url = "/privacy/"
+    weight = 5
+
+[[menu.main]]
+    name = "合约条款"
+    url = "/terms/"
+    weight = 6
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
