@@ -6021,7 +6021,9 @@ ul.social {
   .hero-image .hero-text {
     flex: 0;
     color: #ffffff;
-    margin: auto 0; }
+    margin: auto 0;
+    display: flex;
+    flex-direction: row; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }
       @media (min-width: 768px) {
@@ -6039,7 +6041,15 @@ ul.social {
       @media (min-width: 768px) {
         .hero-image .hero-text p {
           font-size: 1.6rem;
-          width: 60%; } }
+          width: 100%; } }
+  .hero-image .here-title {
+    align-self: center;
+    float: left; }
+  .hero-image .hero-img {
+    flex: 1;
+    text-align: right;
+    align-self: center;
+    float: left; }
   .hero-image .hero-down {
     flex: 0;
     text-align: center;

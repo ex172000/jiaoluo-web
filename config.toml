@@ -1,4 +1,4 @@
-baseURL = "http://jiaoluo.mycloudice.com/"
+baseURL = "http://jiaoluoapp.com/"
 languageCode = "en-us"
 title = "角落"
 themesDir = "themes"
@@ -12,7 +12,7 @@ publishDir = "docs"
     meta_description = "角落：针对人生疑惑问答的App"
     meta_og_title = "角落App"
     meta_og_type = "website"
-    meta_og_url = "http://jiaoluo.mycloudice.com/"
+    meta_og_url = "http://jiaoluoapp.com/"
     meta_og_description = "让懂你的人，为你的迷茫解答"
 
 [[menu.main]]
