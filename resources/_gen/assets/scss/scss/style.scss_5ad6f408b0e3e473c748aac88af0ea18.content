@@ -6046,10 +6046,15 @@ ul.social {
     align-self: center;
     float: left; }
   .hero-image .hero-img {
-    flex: 1;
-    text-align: right;
-    align-self: center;
-    float: left; }
+    display: none; }
+  @media screen and (min-width: 750px) {
+    .hero-image .hero-img {
+      display: block;
+      flex: 1;
+      margin-top: 3cm;
+      text-align: right;
+      align-self: center;
+      float: left; } }
   .hero-image .hero-down {
     flex: 0;
     text-align: center;
