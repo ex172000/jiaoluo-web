@@ -6051,10 +6051,14 @@ ul.social {
     .hero-image .hero-img {
       display: block;
       flex: 1;
-      margin-top: 3cm;
+      margin-top: 10%;
       text-align: right;
       align-self: center;
       float: left; } }
+  .hero-image .hero-img-inner {
+    max-width: 80%;
+    max-height: 80vh;
+    margin: auto; }
   .hero-image .hero-down {
     flex: 0;
     text-align: center;
