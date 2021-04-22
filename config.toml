@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://jiaoluoapp.com"
+baseURL = "http://us.jiaoluoapp.com"
 languageCode = "cn-zh"
 title = "角落 - 亲历者问答"
 theme = "influencer-hugo"
