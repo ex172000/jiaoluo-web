@@ -3,91 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jiaoluoapp.com/services/accounting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/work/fall-plaza/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/work/modern-hospital/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/work/cargo-terminal/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/about/</loc>
-    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/history/</loc>
-    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/pages/</loc>
-    <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/services/business-sales/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/services/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/terms/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/contact/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/privacy/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/</loc>
-    <lastmod>2018-02-12T15:37:57+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/services/</loc>
-    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/work/</loc>
-    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jiaoluoapp.com/404/</loc>
-    <lastmod>2018-02-10T10:52:03+07:00</lastmod>
+    <loc>http://jiaoluoapp.com/blog/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://jiaoluoapp.com/categories/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/categories/go-language/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/tags/html/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/blog/blog-post/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/tags/new/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/tags/photos/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/tags/python/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://jiaoluoapp.com/tags/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jiaoluoapp.com/</loc>
+    <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url>
   
 </urlset>

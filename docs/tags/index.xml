@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 角落</title>
+    <title>Tags on 角落 - 亲历者问答</title>
     <link>http://jiaoluoapp.com/tags/</link>
-    <description>Recent content in Tags on 角落</description>
+    <description>Recent content in Tags on 角落 - 亲历者问答</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jiaoluoapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn-zh</language>
+    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate><atom:link href="http://jiaoluoapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML</title>
+      <link>http://jiaoluoapp.com/tags/html/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>http://jiaoluoapp.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>http://jiaoluoapp.com/tags/new/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>http://jiaoluoapp.com/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://jiaoluoapp.com/tags/photos/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>http://jiaoluoapp.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://jiaoluoapp.com/tags/python/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>http://jiaoluoapp.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

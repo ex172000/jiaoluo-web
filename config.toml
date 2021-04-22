@@ -1,35 +1,116 @@
-baseURL = "http://jiaoluoapp.com/"
-languageCode = "en-us"
-title = "角落"
-themesDir = "themes"
-theme = "hugo-hero-theme"
+######################## default configuration ####################
+baseURL = "http://jiaoluoapp.com"
+languageCode = "cn-zh"
+title = "角落 - 亲历者问答"
+theme = "influencer-hugo"
+summaryLength = "10"
+paginate = 6
 publishDir = "docs"
 
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/magnific-popup.css"
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/magnific-popup.min.js"
+
+  
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "起源"
+  URL = "book"
+  weight = 1
+  
+  [[menu.main]]
+  name = "特点"
+  URL = "chapter"
+  weight = 2
+  
+  [[menu.main]]
+  name = "平台"
+  URL = "device"
+  weight = 3
+
+  [[menu.main]]
+  name = "优势"
+  URL = "author"
+  weight = 4
+  
+  [[menu.main]]
+  name = "联系我们"
+  URL = "contact"
+  weight = 5
+
+
+#################### default parameters ################################
 [params]
-  google_analytics_id=""
+logo = ""
+home = "Home"
+# Meta data
+description = "让亲历者解答你的北美职场困惑"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "" # Your ID
+# copyright
+copyright = "&copy; 2021 [Wenxuanzhi Technology](https://www.wenxuanzhi.com)"
 
-  [params.homepage_meta_tags]
-    meta_description = "角落：针对人生疑惑问答的App"
-    meta_og_title = "角落App"
-    meta_og_type = "website"
-    meta_og_url = "http://jiaoluoapp.com/"
-    meta_og_description = "让懂你的人，为你的迷茫解答"
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
 
-[[menu.main]]
-    name = "联系方式"
-    url = "/contact/"
-    weight = 4
+# Navigation get start button
+[params.navButton]
+enable = true
 
-[[menu.main]]
-    name = "隐私政策"
-    url = "/privacy/"
-    weight = 5
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
 
-[[menu.main]]
-    name = "合约条款"
-    url = "/terms/"
-    weight = 6
+[markup.goldmark.renderer]
+unsafe = true
+  
+############################# Footer ########################
+[params.footer]
+content = "让亲历者解答你的北美职场困惑"
 
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+
+############################# post share ###################
+[[params.share]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.share]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "#"

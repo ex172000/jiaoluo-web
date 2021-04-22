@@ -1,0 +1,236 @@
+########################## Banner #############################
+banner:
+  enable : true
+  writter : "问答APP"
+  title : "角落"
+  image : "images/jiaoluo/home.png"
+  content : "让亲历者解答你的北美职场困惑"
+  price : "14.99"
+
+######################## Book Preview ##########################
+preview:
+  enable : true
+  pagePreview:
+    # page preview loop
+    - image : "images/jiaoluo/question.png"
+
+  title : "我们团队成员经历的一个小故事"
+  content : "他原本是在一个小县城的小学读书，毕业了面临升学问题，他的父母希望他在当地的一所比较好的初中上学，但是他了解到在市区有一所更好的私立初中也在招生，而且面向附属的各个县。他觉得这也是一个开眼界的好机会，于是就和同学们一起参加考试并被录取了。这时候他的父母就面临了一个择校难题，到底去哪里？于是他们当时就去咨询了他们小学经验丰富的老师，那老师建议他们不要去市区，因为孩子太小容易“管不住”。<br><br>
+不甘心之前的努力付之东流，他开始联系去了那所学校的学长。学长分享了他在市区学校的正面经历。说这里一切都是全新的，师生都充满活力、积极向上。学校的成绩也很好，过去几年都是大市第一。最重要的是学长还分享了住校生活的体验，觉得他毋需担心。“学校不仅在学业上有严格管理，生活上也有很多支持” 于是他就把这些信息告诉了先前并不了解这所学校的父母让他们意识到其实放他去市区上学不仅不是一个坏的想法，也能培养独立能力，于是就顺从了他的心愿。<br><br>
+__得出的结论__：1. 许多事情多一个经历多一个角度想法会不一样 2. 找到合适（相似经历）的回答非常重要 "
+
+  # button
+  button:
+    enable : true
+    label : "Purchase on Amazon"
+    link : "#"
+
+
+########################## Service ##############################
+service:
+  enable : false
+  serviceItem:
+    # service item loop
+    - title : "Experience"
+      icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
+      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      
+    # service item loop
+    - title : "Marketing Goals"
+      icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
+      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      
+    # service item loop
+    - title : "Targetting Vission"
+      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+
+
+######################### Quote #############################
+quote:
+  enable : false
+  quote: "It's simply the best guide to making money online ever released which only a fool would ignore."
+  quoteBy: "John Smith"
+
+
+######################### Chapters ##########################
+chapters:
+  enable : true
+  title : "角落平台和其他的问答平台或者论坛的区别?"
+  subtitle : "<br>平时有一些问题/困惑你会怎么解决呢？问身边的人? 搜索平台? 上论坛或者问答平台? 我们研究了这几种解决方式发现了以下三个问题："
+  chapter:
+    # chapter preview loop
+    - title : "回答缺乏实践性"
+      content : "- 广而泛的回答针对性弱
+
+                 - 基于回答者自身经历的回答不知道是否试用
+                 
+                 - 过多的信息难以筛选，效率低（这点在论坛尤为明显）"
+
+    # chapter preview loop
+    - title : "回答不能产生共鸣，难以找到合适自己的回答"
+      content : ""
+      
+    # chapter preview loop
+    - title : "问题本身广而泛"
+      content : ""
+      
+########################## Revews ###########################
+reviews:
+  enable : false
+  title : "What people are saying"
+  subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
+  review:
+    # review item loop
+    - name : "Barrow Hasi"
+      image : "images/client/test-1.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "five" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Nilam Arthur"
+      image : "images/client/test-2.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "four" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Barrow Hasi"
+      image : "images/client/test-1.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "five" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Nilam Arthur"
+      image : "images/client/test-2.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "four" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+
+
+#################################### device ################################
+devices:
+  enable : true
+  title : "我们想做的平台是"
+  content : "可以向指定的经历者群体提问，答题者根据自己的人生感悟进行回答，APP不仅会对所有回答进行数据统计，告诉我不同经历者的看法数据，并且会推荐匹配度最高的回答给提问者/浏览者。
+             
+             - 得到共鸣和支持
+
+             - 有实践性的回答 
+
+             - 有效地找到适合我的回答 "
+  image : "images/jiaoluo/preview.png"
+  feature:
+    # feature item loop
+    - title : "目标是："
+      icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
+      content : "迷茫和困惑能够得到有效地解决"
+      
+    # feature item loop
+    - title : "亲历者：有过亲身经历并提取出了人生感悟的人"
+      icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
+      content : "每个人都是经历者，今天他有可能是昨天的你，我们认为每个人在不同阶段的经历都是有价值的，且有意义的，当把不同的经历和不同角度的想法汇总在一起，所得出来的感悟是更为全面的，有深度的"
+
+
+  # button
+  button:
+    enable : false
+    label : "Purchase on amazon"
+    link : "#"
+
+######################################## author #############################
+author:
+  enable : true
+  image : "images/jiaoluo/test.png"
+  name : "如何做到以上几点呢？"
+  designation : "角落App的优势"
+  content : "- 喊话人群 （能帮助用户准确的找到目标亲历者）
+             
+             - 是否有经历（找到和我有类似经历的回答）
+             
+             - 统计 （帮助更全面看待问题）
+             
+             - 角落测试 （BIS/BAS行为驱动力测试，筛选出会与提问者/浏览者做出类似行为的回答)
+
+             - 我们的问题案列
+"
+
+
+
+################################ Awards #####################################
+awards:
+  enable : false
+  title : "We are award winner best selling book among the top rated 10 books!"
+  award:
+    # award item loop
+    - title : "International award"
+      image : "images/about/award-1.png"
+      
+    # award item loop
+    - title : "Meritorious award"
+      image : "images/about/award-2.png"
+      
+    # award item loop
+    - title : "Best book award"
+      image : "images/about/award-3.png"
+      
+    # award item loop
+    - title : "Excellence award"
+      image : "images/about/award-4.png"
+
+
+############################# Other books ###############################
+otherBooks:
+  enable : false
+  title : "Others books by the author"
+  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
+            facere quas blanditiis."
+  book:
+    # books loop
+    - image : "images/about/b-1.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-2.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-3.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-4.jpg"
+      link : "#"
+
+################################ Blog ###################################
+blog:
+  enable : false
+  title : "Our insights and articles"
+  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
+  # blog post comes from 'content/blog'
+
+################################# Contact ##############################
+contact:
+  enable : true
+  title : "联系我们"
+  subtitle : "欢迎一切建议和意见"
+  contactItem:
+    # contact Item loop
+    - title : "微信公众号"
+      icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "问选之"
+        
+    # contact Item loop
+    - title : "Email"
+      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "support@wenxuanzhi.com"
+        
+    # contact Item loop
+    - title : "团队"
+      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "北京问选之科技有限公司"
