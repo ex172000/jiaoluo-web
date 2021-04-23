@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>角落 - 亲历者问答</title>
-    <link>http://us.jiaoluoapp.com/</link>
-    <description>Recent content on 角落 - 亲历者问答</description>
+    <title>角落 - 亲历者问答平台</title>
+    <link>http://get.jiaoluoapp.com/</link>
+    <description>Recent content on 角落 - 亲历者问答平台</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn-zh</language>
-    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate><atom:link href="http://us.jiaoluoapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate><atom:link href="http://get.jiaoluoapp.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Awesome Blog Post</title>
-      <link>http://us.jiaoluoapp.com/blog/blog-post/</link>
+      <link>http://get.jiaoluoapp.com/blog/blog-post/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
       
-      <guid>http://us.jiaoluoapp.com/blog/blog-post/</guid>
+      <guid>http://get.jiaoluoapp.com/blog/blog-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur?</description>
     </item>
     

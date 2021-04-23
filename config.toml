@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "http://us.jiaoluoapp.com"
+baseURL = "http://get.jiaoluoapp.com"
 languageCode = "cn-zh"
-title = "角落 - 亲历者问答"
+title = "角落 - 亲历者问答平台"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
@@ -70,7 +70,7 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "&copy; 2021 [Wenxuanzhi Technology](https://www.wenxuanzhi.com)"
+copyright = "&copy; 2021 [Wenxuanzhi](https://www.wenxuanzhi.com)"
 
 # Preloader
 [params.preloader]
