@@ -215,22 +215,25 @@ blog:
 contact:
   enable : true
   title : "联系我们"
-  subtitle : "欢迎一切建议和意见"
+  subtitle : "你可以在下列渠道找到我们"
   contactItem:
     # contact Item loop
-    - title : "微信公众号"
-      icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
+    - title : "小红书"
+      icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "问选之"
+        - listItem: "角落App"
+          listLink : "https://www.xiaohongshu.com/user/profile/5b719591e2910c00014f26bb?xhsshare=CopyLink&appuid=5f83e208000000000100a1dc&apptime=1619726259"
         
     # contact Item loop
-    - title : "Email"
-      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+    - title : "Instagram"
+      icon : "ti-instagram" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "support@wenxuanzhi.com"
+        - listItem: "jiaoluoapp"
+          listLink : "https://www.instagram.com/jiaoluoapp/"
         
     # contact Item loop
-    - title : "团队"
-      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+    - title : "Facebook"
+      icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "北京问选之科技有限公司"
+        - listItem: "角落北美职场问答App"
+          listLink : "https://www.facebook.com/jiaoluoapp"
